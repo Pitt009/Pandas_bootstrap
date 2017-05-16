@@ -1,0 +1,28 @@
+body{
+  background-color: #64B200;
+}
+
+header{
+  background-color: #DA00FF;
+
+}
+div{
+ padding: 3%;
+ position: relative;
+}
+img{
+  width: 100%;
+}
+
+span{
+  position: absolute;
+  padding-top: 3%;
+}
+
+button{
+  background-color: #F408FF;
+  color: #FFF;
+}
+p{
+  color: #FFF;
+}
